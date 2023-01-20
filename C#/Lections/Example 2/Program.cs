@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Как вас зовут?");
-String username = Console.ReadLine();
-Console.WriteLine("Привет,");
-Console.WriteLine(username);
+﻿Console.WriteLine("Как вас зовут?"); //Вывод на экран фразы в скобках.
+String username = Console.ReadLine();//Запомнить данные введенные в строку
+Console.WriteLine("Привет,");// Снова вывод на экран фразы в скобках.
+Console.WriteLine(username);// Вывод данных помещенных в контейнер String
+
+// За двойным слешем (Две косые линии - идет комментарий. Не является кодом)
